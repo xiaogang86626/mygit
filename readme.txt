@@ -6,5 +6,6 @@ Git is 666666.
 Creating a new branch is quick AND simple.
 dev分支，添加一行
 master分支，添加一行1111
+2222222
 
 2222222
